@@ -1,4 +1,27 @@
-# Markdown Files
+# Computer Science ATAR Compendium
+
+A short but complete summary of something.
+
+## Getting started
+
+This compendium is designed for two purposes:
+1. As an introduction to new content as you learn the course
+2. A a revision guide as you prepare for your exams.
+
+The content is structured to mirror your curriculum and the syllabus points.
+
+## Content
+
+The table of contents will contain links from every syllabus point to
+pages detailing the knowledge and skills you will require for that point.
+
+For each area of the curriculum you will find:
+* a short video introducing the topic and (hopefully) convincing you of its
+relevance to computer science in the real world.
+* a description of the content itself, either in text or a presentation
+* a short notebook to demonstrate the concepts in Python or SQL
+* a sample exam question and answer key for that point.
+
 
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
 in regular markdown files (`.md`), you'll write in the same flavor of markdown
