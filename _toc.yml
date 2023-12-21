@@ -3,7 +3,17 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  # - caption: The course and its tools
+  #   chapters:
+  #   - file: markdown
+  #   - file: notebooks
+  #   - file: markdown-notebooks
+
+  - caption: Programming
+    chapters:
+    - file: content/prog/00_index
+      sections:
+      - file: content/prog/know-prog/00_index
+      - file: content/prog/know-prog/prog-control-struct/00_index
+      - file: content/prog/know-prog/prog-control-struct/10_sequence.md
