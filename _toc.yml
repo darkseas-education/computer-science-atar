@@ -12,6 +12,7 @@ parts:
 
   - caption: Programming
     chapters:
+    - file: content/00_index
     - file: content/prog/00_index
       sections:
       - file: content/prog/know-prog/00_index
