@@ -1,4 +1,4 @@
-# Sequence
+# Sequence Notebook MD
 
 Doing things in order.
 
@@ -6,7 +6,7 @@ Have a look at the three code cells below.
 
 We usually run a notebook cell-by-cell from top to bottom with the play icon or keys Shift-Enter.
 
-What will happen if you tun the cell beginning `print('Welcome ...')`
+What will happen if you run the cell beginning `print('Welcome ...')`
 
 
 ```python
