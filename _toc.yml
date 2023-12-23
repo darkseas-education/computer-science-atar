@@ -18,3 +18,4 @@ parts:
       - file: content/prog/know-prog/00_index
       - file: content/prog/know-prog/prog-control-struct/00_index
       - file: content/prog/know-prog/prog-control-struct/10_sequence.md
+      - file: notebooks/11_sequence
