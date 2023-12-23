@@ -26,6 +26,14 @@ def task_lab():
         'verbosity': 2
     }
 
+def task_push():
+    """Push the book to Github Pages"""
+    actions = ['ghp-import -n -p -f _build/html']
+    return {
+        'actions': actions,
+        'verbosity': 2
+    }
+
 # Classes
 
 # Tests
