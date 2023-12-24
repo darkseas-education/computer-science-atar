@@ -17,6 +17,7 @@ parts:
       sections:
       - file: content/prog/know-prog/00_index
       - file: content/prog/know-prog/prog-control-struct/00_index
-      - file: content/prog/know-prog/prog-control-struct/10_sequence.md
-      - file: content/prog/know-prog/prog-control-struct/20_selection.md
+      - file: content/prog/know-prog/prog-control-struct/10_sequence
       - file: notebooks/11_sequence
+      - file: content/prog/know-prog/prog-control-struct/20_selection
+      - file: notebooks/21_selection
